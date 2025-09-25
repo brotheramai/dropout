@@ -1,0 +1,13 @@
+{
+    "module_name": "Dropout",
+    "maintainer": "https://github.com/brotheramai",
+    "features": {
+        "unicode": true
+    },
+    "keycodes": [
+        {
+            "key": "DROP",
+            "aliases": ["V_____V"]
+        }
+    ]
+}
